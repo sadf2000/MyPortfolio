@@ -1,0 +1,5 @@
+print('Введите скорость и расстояние')
+rate = float(input('Скорость:'))
+dis = float(input('Расстояние:'))
+print('Время:', rate/dis)
+input()

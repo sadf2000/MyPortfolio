@@ -1,0 +1,5 @@
+l=float(input('Длина:'))
+w=float(input('Ширина:'))
+print('Площадь:', l*w)
+print('Периметр:', 2*l+2*w)
+input()

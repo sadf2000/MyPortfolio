@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"S",
+				"StartY"
+			],
+			[
+				"co",
+				"Cooldown"
+			],
+			[
+				"C",
+				"Checkpoint"
+			],
+			[
+				"V",
+				"Vector3"
+			],
+			[
+				"Ve",
+				"Vector3"
+			],
+			[
+				"t",
+				"trans"
+			],
+			[
+				"Tra",
+				"transform"
+			],
+			[
+				"tr",
+				"trans"
+			],
+			[
+				"G",
+				"GetKey"
+			],
+			[
+				"v",
+				"Vector2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"2+2",
+			"open",
+			"kdsfkl",
+			"infa.py",
+			";",
+			"python",
+			"python infa.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/С программирования/Infa.py",
+		"/D/Minecraft/game/versions/ForgeOptiFine 1.16.5/ForgeOptiFine 1.16.5.json",
+		"/D/Minecraft/game/launcher_profiles.json",
+		"/D/Minecraft/jre/java-runtime-alpha/windows-x64/java-runtime-alpha/conf/sound.properties",
+		"/D/AndroidSDK/build-tools/35.0.1/core-lambda-stubs.jar",
+		"/D/программирования/Unity 2020.3.48f1/projects/Terrain Test/Assets/firstPersonScript.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/CameraScript.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/first in mobile/Assets/Scenes/Movement.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/sample/learn/My project (1)/Assets/firstPersonScript.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/MoveBall.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/PlayerController.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/ball and cubes/Assets/lol.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/ball and cubes/Assets/movement.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/first in mobile/Assets/Scenes/CameraScript.cs",
+		"/D/Игры/5-nights-at-timokha-4-school.7z",
+		"/D/RobloxOffline/content/scripts/ServerStarterScript.lua",
+		"/D/RobloxOffline/content/scripts/StarterScript.lua",
+		"/D/программирования/Unity 2020.3.48f1/projects/CharacterTest/Assets/NewBehaviourScript.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/Terrain Forest LOL/Assets/firstPersonScript.cs",
+		"/D/Minecraft/game/versions/ForgeOptiFine 1.16.5/ForgeOptiFine 1.16.5.jar.bak",
+		"/D/программирования/Unity 2020.3.48f1/projects/CharacterTest/Assets/Easy FPS/Scripts/BulletScript.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/CharacterTest/Assets/unity-chan!/Unity-chan! Model/Editor/CreateLocatorHere.cs",
+		"/D/RobloxOffline/RobloxOfflineLauncher.py",
+		"/F/Николай Семёнович Лесков.ppt",
+		"/C/Users/Professional/Desktop/pip list, pip (un)install/Place1.rbxl",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/LevelSayer.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/Kill.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/NewBehaviourScript.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/FlyButton.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/CheckpointScript.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/Play.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/sample/learn/My project (1)/Assets/DeathBlockScript.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/sample/learn/My project (1)/Assets/ReturnToBackScript.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/addobj.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/MobileControls.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/clone.cs",
+		"/D/программирования/Unity 2020.3.48f1/projects/New Unity 5/Assets/BasicAnim.cs",
+		"/D/Unity 2020.3.48f1/projects/sample/learn/My project (1)/Assets/CheckPointScript.cs",
+		"/D/Unity 2020.3.48f1/projects/sample/learn/My project (1)/Assets/firstPersonScript.cs",
+		"/D/Unity 2020.3.48f1/projects/sample/learn/My project (2)/Assets/CharScript.cs",
+		"/D/Unity 2020.3.48f1/projects/sample/learn/My project (1)/Assets/ReturnToBackScript.cs",
+		"/D/Unity 2020.3.48f1/projects/sample/learn/My project (2)/Assets/CharacterScript.cs",
+		"/D/Unity 2020.3.48f1/projects/sample/learn/My project (1)/Assets/Scenes/SampleScene.unity",
+		"/D/Unity 2020.3.48f1/projects/sample/learn/My project (1)/Assets/DeathBlockScript.cs",
+		"/D/Unity 2020.3.48f1/projects/New Unity Project/Assets/NewBehaviourScript.cs",
+		"/C/Users/Professional/Desktop/Новый точечный рисунок.bmp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Infa.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
